@@ -1,0 +1,13 @@
+torch
+pandas
+numpy
+yfinance
+scikit-learn
+gradio
+matplotlib
+tqdm
+schedule
+google-generativeai
+google-genai
+python-dotenv
+cloudinary
