@@ -438,7 +438,7 @@ def calculation(num1: float, num2:float, mode: str) -> Union[str, float]:
 
 def loan_calculator(principal: float, annual_rate: float, years: int) -> Dict[str, float]:
     """
-    Calculate monthly payment, total payment, and total interest for a loan. Uses loan amortization formula to calculate the monthly payment.
+    Calculate monthly loan payment, total payment, and total interest for a general loan like personal loan, auto loan and student loan, but strictly excluding home mortgage. Uses loan amortization formula to calculate the monthly payment.
     
     Args:
         principal: Total loan amount (P)
@@ -470,7 +470,7 @@ def loan_calculator(principal: float, annual_rate: float, years: int) -> Dict[st
 
 def mortgage_calculator(principal: float, annual_rate: float, years: int) -> Dict[str, float | List[Dict[str, float]]]:
     """
-    Calculate monthly mortgage payment, total payment, total interest, and provide an amortization schedule.
+    Calculate monthly mortgage payment, total payment, total interest, and provide an amortization schedule only for home mortgage.
 
     Args:
         principal: Total loan amount (P)
