@@ -1,21 +1,21 @@
 {
     "stocks": {
         "AAPL": {
-            "added_date": "2025-03-26 19:14:49",
-            "last_trained": "2025-03-28 23:21:02",
-            "accuracy": 0.963201549728686,
+            "added_date": "2025-03-31 10:11:15",
+            "last_trained": "2025-03-31 10:18:47",
+            "accuracy": 0.9631703490970502,
             "model_path": "models\\AAPL_model.pt"
         },
         "NKE": {
-            "added_date": "2025-03-27 11:23:49",
-            "last_trained": "2025-03-28 23:28:09",
-            "accuracy": 0.9027756237009583,
+            "added_date": "2025-03-31 10:19:01",
+            "last_trained": "2025-03-31 10:26:24",
+            "accuracy": 0.8971930230208599,
             "model_path": "models\\NKE_model.pt"
         },
         "NVDA": {
-            "added_date": "2025-03-27 18:52:01",
-            "last_trained": "2025-03-28 23:31:53",
-            "accuracy": 0.8971656478330767,
+            "added_date": "2025-03-31 10:26:54",
+            "last_trained": "2025-03-31 10:31:37",
+            "accuracy": 0.8922456859142948,
             "model_path": "models\\NVDA_model.pt"
         }
     },
