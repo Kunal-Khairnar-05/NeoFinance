@@ -30,6 +30,16 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 - 💡 **Smart decision assistance:** Offers **personalized financial advice** based on the user's profile, risk appetite, and market conditions.
 
 ---
+### **Preview**
+| | |
+|:-------------------------:|:-------------------------:|
+<img width="1604" alt="" src="https://github.com/user-attachments/assets/edfe0575-99ba-43b3-9831-e74798d5f95d">  Stock Information| <img width="" src="https://github.com/user-attachments/assets/16ccc832-5759-4f58-bcbf-c2a596349f45"> Historic Exchange Rates |
+<img width="1604" alt="" src="https://github.com/user-attachments/assets/4f46b606-d9dc-4f99-ba97-f37ef485ee3b"> Predict Price| <img width="" src="https://github.com/user-attachments/assets/a6452a18-fd76-463b-9e2e-3a6c07562fd4">Graphs Display |
+<img width="" src="https://github.com/user-attachments/assets/76299820-cee6-410c-ad15-af1b463597b1"> Perticular Stock History | <img width="" src="https://github.com/user-attachments/assets/f2dcaa34-4447-41bd-ae93-53a0e21b18f2"> Top Losers |
+<img width="" src="https://github.com/user-attachments/assets/111e6693-8a6f-4217-ae7a-dcf8116f7687"> Bitcoin Price | <img width="" src="https://github.com/user-attachments/assets/1c8b5683-78d6-45fb-8e6d-84d56d82ea77"> Raw predictions |
+<img width="" src="https://github.com/user-attachments/assets/0dde38a9-b2c1-4d1d-b978-c89bd3bb602d"> Top Gainers |<img width="" src="https://github.com/user-attachments/assets/cec80cd1-c730-4011-9c0b-29ca09f4cebe"> Calculate Mortgage |
+
+---
 
 ### **🚀 Getting Started**  
 
@@ -76,7 +86,7 @@ python3 app.py
 From here you should get some links which will redirect you to the gradio interface which contains the chatbot.
 ---
 
-### **Contributors: **
+### **Contributors:**
 - **Hano Varghese:** Team leader, built the transformer for prediction and gradio interface.
 - **Ruhan Dave:** Integrated Gemini using function calling, developed all functions except stock info and prediction.
-- **Kunal Khairnar:** Live documentation, PPT making, creative director.
+- **Kunal Khairnar:** Web Development, Documentation, PPT. 
