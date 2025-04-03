@@ -1,5 +1,9 @@
 ### **📌 NeoFinance: Gemini Financial Chatbot**  
-*A financial assistant leveraging Gemini AI for real-time stock, currency, and commodity insights.*  
+*NeoFinance is an AI-powered solution designed to bridge the financial literacy gap in India and help millions of new investors make informed decisions. Our intelligent chatbot interacts with users, answering investment questions and guiding them to suitable financial products. Users can request stock predictions for different timeframes, historical stock price, currency exchange, crypto exchange rate, stock info, top 10 gainers and lossers and also calculate loan and martgage payment. The solution is partially developed on Project IDX.*
+
+*Leveraging transformer-based deep learning, the solution provides highly accurate stock forecasts, empowering investors with data-driven insights. By automating financial guidance through AI, our system ensures scalability, addressing the massive influx of new investors without manual intervention. This project revolutionizes investment decision-making, making financial knowledge accessible, actionable, and personalized for every user.*  
+
+#### **Problem Statement: GenAI-Powered Financial Assistant for Better Investing Decisions**
 
 ---
 
@@ -51,9 +55,15 @@ For windows:
 ```bash
 python app.py
 ```
+
 For Mac/Linux:
 ```bash
 python3 app.py
 ```
 From here you should get some links which will redirect you to the gradio interface which contains the chatbot.
 ---
+
+### **Contributors: **
+- **Hano Varghese:** Team leader, built the transformer for prediction and gradio interface.
+- **Ruhan Dave:** Integrated Gemini using function calling, developed all functions except stock info and prediction.
+- **Kunal Khairnar:** Waiting for response
