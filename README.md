@@ -79,4 +79,4 @@ From here you should get some links which will redirect you to the gradio interf
 ### **Contributors: **
 - **Hano Varghese:** Team leader, built the transformer for prediction and gradio interface.
 - **Ruhan Dave:** Integrated Gemini using function calling, developed all functions except stock info and prediction.
-- **Kunal Khairnar:** Waiting for response
+- **Kunal Khairnar:** Live documentation, PPT making, creative director.
